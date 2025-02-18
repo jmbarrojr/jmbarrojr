@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmbarrojr
-- 👀 I’m interested in turbulent flow, optical experimental techniques and coding.
-- 🌱 I have been working in experimental fluid mechanics for almost 20 years, and I'm looking forward to contributing more with my codes to the community.
+- 👀 I’m interested in turbulent flow, optical experimental techniques, and coding.
+- 🌱 I have been working in experimental fluid mechanics for over 20 years, and I'm looking forward to contributing more of my codes to the community.
 - 📫 Feel free to contact me about the public repositories I hold.
 
 <!---
